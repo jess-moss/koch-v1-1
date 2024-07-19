@@ -1,6 +1,6 @@
 # Alexander Koch Arm V1.1
 
-This folder the instructions to assembly a slightly modified version of the [Alexander Koch Arms](https://github.com/AlexanderKoch-Koch/low_cost_robot). 
+This folder contains the instructions to assemble a slightly modified version of the [Alexander Koch Arms](https://github.com/AlexanderKoch-Koch/low_cost_robot). 
 
 ## Assembly Instructions
 

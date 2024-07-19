@@ -19,7 +19,7 @@ This folder the instructions to assembly a slightly modified version of the [Ale
 | 1.5mm Star/Cruciform Screwdriver included in set | 1 | $6 | [Amazon](https://www.amazon.com/Choice-9-Piece-Precision-Screwdriver-Phillips/dp/B0747DYJJR) | n/a | n/a | £5 | [Amazon](https://www.amazon.com/Choice-9-Piece-Precision-Screwdriver-Phillips/dp/B0747DYJJR)
 | Total | | $189 | | 297€ | | £199 | |
 
-Video of the Assembly: #TODO: What is the best format to put this video? I'm thinking Youtube?
+Video of the Assembly: [GoogleDrive](https://drive.google.com/file/d/175ARhMbZ5WLxKjbbCx7fIGH7QuZW5ajk/view?usp=drive_link) #TODO: Update with Youtube Video later.
 
 1. Order all off the shelf parts from the BILL_OF_MATERIALS.md.
 2. Print all parts with a 3D printer.
@@ -61,7 +61,7 @@ Video of the Assembly: #TODO: What is the best format to put this video? I'm thi
 | USB C-A or C-C 2pcs set (1 pc needed) | 1 | $9 | [Amazon](https://www.amazon.com/Charging-etguuds-Charger-Braided-Compatible/dp/B0B8NWLLW2/) | 7€ | [Amazon](https://www.amazon.fr/-/en/dp/B0CKPDZ3SK/) | £7 | [Amazon](https://www.amazon.com/Charging-etguuds-Charger-Braided-Compatible/dp/B0B8NWLLW2/)|
 | Total | | $277 | | 360€ | | £269 | |
 
-Video of the Assembly: #TODO: What is the best format to put this video? I'm thinking Youtube?
+Video of the Assembly: [GoogleDrive](https://drive.google.com/file/d/1uk6JFVT2OoHBs3-S-JOH1AkEEqhCJtGh/view?usp=drive_link) #TODO: Update with Youtube Video later.
 
 1. Order all off the shelf parts from the BILL_OF_MATERIALS.md.
 2. Print all parts with a 3D printer.
@@ -76,8 +76,8 @@ Video of the Assembly: #TODO: What is the best format to put this video? I'm thi
         1. Set the baudrate to 1M for all motors
         2. Set the servo IDs to 1 for the shoulder to 5 (6 if using the elbow-to-wrist extension) for the gripper servo
 4.  Follower the video to in assembling the mechanical structure.
-4. Follower the video to in assembling the mechanical structure. #TODO(jess-moss): Should I add more info here? 
-5.  Use the electrical diagram to wire the robot
+5. Follower the video to in assembling the mechanical structure. #TODO(jess-moss): Should I add more info here? 
+6.  Use the electrical diagram to wire the robot
     1.  Use the 6 Dynamixel motor cables to daisy chain the four XL330 motors together and the two XL430 motors together. Do not connect the XL430 motor to the XL 330 motor.
     2.  Get three male to female wires. Plug them into the D, V, and G of the PCB.
     3.  Connect these to the motor cable of the first (shoulder rotation) Dynamixel XL430 with G being connected to Pin 1, V to Pin 2, and D to Pin 3. (Hint: The cable connector has a small 1, 2, and 3 on it so you can identify each pin).

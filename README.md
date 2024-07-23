@@ -19,7 +19,7 @@ This folder contains the instructions to assemble a slightly modified version of
 | 1.5mm Star/Cruciform Screwdriver included in set | 1 | $6 | [Amazon](https://www.amazon.com/Choice-9-Piece-Precision-Screwdriver-Phillips/dp/B0747DYJJR) | n/a | n/a | £5 | [Amazon](https://www.amazon.com/Choice-9-Piece-Precision-Screwdriver-Phillips/dp/B0747DYJJR)
 | Total | | $189 | | 297€ | | £199 | |
 
-Video of the Assembly: [GoogleDrive](https://drive.google.com/file/d/175ARhMbZ5WLxKjbbCx7fIGH7QuZW5ajk/view?usp=drive_link) #TODO: Update with Youtube Video later.
+Video of the Assembly: [GoogleDrive](https://drive.google.com/file/d/1Gu7HVGCMIvDieoSrBJDarRtC8zhB7Eeh/view?usp=drive_link) #TODO: Update with Youtube Video later.
 
 1. Order all off the shelf parts from the BILL_OF_MATERIALS.md.
 2. Print all parts with a 3D printer.
@@ -61,7 +61,7 @@ Video of the Assembly: [GoogleDrive](https://drive.google.com/file/d/175ARhMbZ5W
 | USB C-A or C-C 2pcs set (1 pc needed) | 1 | $9 | [Amazon](https://www.amazon.com/Charging-etguuds-Charger-Braided-Compatible/dp/B0B8NWLLW2/) | 7€ | [Amazon](https://www.amazon.fr/-/en/dp/B0CKPDZ3SK/) | £7 | [Amazon](https://www.amazon.com/Charging-etguuds-Charger-Braided-Compatible/dp/B0B8NWLLW2/)|
 | Total | | $277 | | 360€ | | £269 | |
 
-Video of the Assembly: [GoogleDrive](https://drive.google.com/file/d/1uk6JFVT2OoHBs3-S-JOH1AkEEqhCJtGh/view?usp=drive_link) #TODO: Update with Youtube Video later.
+Video of the Assembly: [GoogleDrive](https://drive.google.com/file/d/1TAT86NZdQpuBdPMzIGp45BcXuys5QQJc/view?usp=drive_link) #TODO: Update with Youtube Video later.
 
 1. Order all off the shelf parts from the BILL_OF_MATERIALS.md.
 2. Print all parts with a 3D printer.

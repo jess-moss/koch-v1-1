@@ -68,7 +68,7 @@ A variety of 3D printers are acceptable to print the parts necessary of the foll
       3. Use a standard glue stick and apply a thin, even layer of glue across the print area of the bed. Avoid clumping or uneven application.
       4. Load the printer filament using printer specific instructions.
       5. Ensure the printer settings match the ones suggested above (most printers have multiple settings so choose the ones that most closely match).
-      6. Check Choose the file(s) to print as found in the harware folder.
+      6. Check file type, choose the file(s) from the hardware folder and print.<sup>[8](#myfootnote8)</sup>
 3. Print one of each of parts found in `hardware/leader/STL` and `hardware/follower/STL`, which are listed below.
    1. Leader:
       1. Leader_Base
@@ -77,8 +77,8 @@ A variety of 3D printers are acceptable to print the parts necessary of the foll
       4. Leader_Gripper_Handle
       5. Leader_Gripper_Trigger
       6. Leader_Shoulder_To_Elbow
-      7. Leader_Platform<sup>[8](#myfootnote8)</sup>
-      8. Robotis_FPX330_S101<sup>[9](#myfootnote9)</sup>
+      7. Leader_Platform<sup>[9](#myfootnote9)</sup>
+      8. Robotis_FPX330_S101<sup>[10](#myfootnote10)</sup>
    2. Follower:
       1. Follower_Base
       2. Follower_Elbow_To_Wrist
@@ -108,5 +108,6 @@ While this robot can be programmed in a variety of manners, it is suggested to u
 <a name="myfootnote5">5</a>: This precision is based on the fact the through holes for M2 fasteners are 2.4mm in diameter while the nominal diameter of a M2 fastener is 2mm. In a worst case scenario, this allows +/- 0.2mm while still allowing for screw alignment. However, if you are only capable of printing with a larger layer height, you will likely be fine, just ensure the screw holes align as expected.\
 <a name="myfootnote6">6</a>: It is quite possible a lower density infill could be used, however, erring on the side of caution, I used 37% to ensure strong parts.  \
 <a name="myfootnote7">7</a>: You do not need to buy these exact parts, but a glue stick and putty knife are almost always necessary for a good 3D print. The glue prevents parts from sticking to the print bed, and the putty knife helps scrape parts from the print bed. However, feel free to check with your specific printer instructions for if these parts are necessary. \
-<a name="myfootnote8">8</a>: This is not strictly necessary to print but does allow the follower arm to reach the ground which is is otherwise unable to do in the current setup.\
-<a name="myfootnote9">9</a>: You can either buy the Robotis [FPX330-S101](https://www.robotis.us/fpx330-s101-4pcs-set/), or 3D print it, but it is cheaper to print.
+<a name="myfootnote8">8</a>: All the printers suggested will print STL files. However, if your printer only prints a different format, ensure you convert the file to the correct extention before printing.
+<a name="myfootnote9">9</a>: This is not strictly necessary to print but does allow the follower arm to reach the ground which is is otherwise unable to do in the current setup. \
+<a name="myfootnote10">10</a>: You can either buy the Robotis [FPX330-S101](https://www.robotis.us/fpx330-s101-4pcs-set/), or 3D print it, but it is cheaper to print.

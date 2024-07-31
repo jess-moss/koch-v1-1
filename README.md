@@ -68,7 +68,7 @@ A variety of 3D printers are acceptable to print the parts necessary of the foll
       3. Use a standard glue stick and apply a thin, even layer of glue across the print area of the bed. Avoid clumping or uneven application.
       4. Load the printer filament using printer specific instructions.
       5. Ensure the printer settings match the ones suggested above (most printers have multiple settings so choose the ones that most closely match).
-      6. Choose the file(s) to print as found in the harware folder.
+      6. Check Choose the file(s) to print as found in the harware folder.
 3. Print one of each of parts found in `hardware/leader/STL` and `hardware/follower/STL`, which are listed below.
    1. Leader:
       1. Leader_Base

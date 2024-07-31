@@ -56,15 +56,15 @@ A variety of 3D printers are acceptable to print the parts necessary of the foll
    1. Precision: 0.2mm minimum height layer<sup>[5](#myfootnote5)</sup>
    2. Material: PLA, ABS, PETG or other reasonably strong plastics.
    3. Nozzle Diameter: 0.4mm maximum nozzle diameter
-   4. Infill Density: ~30%
+   4. Infill Density: ~30% <sup>[6](#myfootnote6)</sup>
    5. Sample Printers: [Prusa Mini+](https://www.prusa3d.com/product/original-prusa-mini-semi-assembled-3d-printer-4/), [Bambu P1](https://us.store.bambulab.com/collections/p1-series/products/p1p), [Ender3](https://www.amazon.com/Comgrow-Creality-Ender-Aluminum-220x220x250mm/dp/B07BR3F9N6/), etc.  
 2. Set up the printer
-   1. Materials<sup>[6](#myfootnote6)</sup>:
+   1. Materials:<sup>[7](#myfootnote7)</sup>
       1. [Standard Glue Stick](https://www.amazon.com/Amazon-Basics-Washable-School-Sticks/dp/B0CRCWCGNW/)
       2. [Putty Knife](https://www.amazon.com/Warner-ProGrip-Putty-Knife-90133/dp/B000I1VEK6/)
    2. Setup and Takedown
       1. Ensure that the printer is calibrated and the bed level is correctly set using the printer specific instructions.
-      2. Clean the print bed, making sure it is free from dust, or grease. In cleaning the bed using water, or other liquid, dry the bed.
+      2. Clean the print bed, making sure it is free from dust, or grease. If cleaning the bed using water, or other liquid, dry the bed.
       3. Use a standard glue stick and apply a thin, even layer of glue across the print area of the bed. Avoid clumping or uneven application.
       4. Load the printer filament using printer specific instructions.
       5. Ensure the printer settings match the ones suggested above (most printers have multiple settings so choose the ones that most closely match).
@@ -77,8 +77,8 @@ A variety of 3D printers are acceptable to print the parts necessary of the foll
       4. Leader_Gripper_Handle
       5. Leader_Gripper_Trigger
       6. Leader_Shoulder_To_Elbow
-      7. Leader_Platform<sup>[7](#myfootnote7)</sup>
-      8. Robotis_FPX330_S101<sup>[8](#myfootnote8)</sup>
+      7. Leader_Platform<sup>[8](#myfootnote8)</sup>
+      8. Robotis_FPX330_S101<sup>[9](#myfootnote9)</sup>
    2. Follower:
       1. Follower_Base
       2. Follower_Elbow_To_Wrist
@@ -94,19 +94,19 @@ A variety of 3D printers are acceptable to print the parts necessary of the foll
 
 ### Assembling the Parts
 Construct the leader and follower arms using the Assembly Video linked below.
-Video of the Assembly: [GoogleDrive](https://drive.google.com/file/d/1Gu7HVGCMIvDieoSrBJDarRtC8zhB7Eeh/view?usp=drive_link) #TODO: Update with Youtube Video later.
-Video of the Assembly: [GoogleDrive](https://drive.google.com/file/d/1TAT86NZdQpuBdPMzIGp45BcXuys5QQJc/view?usp=drive_link) #TODO: Update with Youtube Video later.
+Video of the Assembly: [Youtube](https://youtu.be/LilDX6zS6OY?si=ZD-oKlPLFzF46wV9) #TODO: Update with the new Youtube Video later.
 
 ### Configure
 While this robot can be programmed in a variety of manners, it is suggested to use with [LeRobot](https://github.com/huggingface/lerobot/blob/133d184a544443b44095c83156dbf8d212ccfaf6/examples/7_get_started_with_real_robot.md). #TODO: Add link to exact tutorial.
 
 
 ### Footnotes
-<a name="myfootnote1">1</a>:You will only use three idler wheels that come in this four piece set.\
+<a name="myfootnote1">1</a>: You will only use three idler wheels that come in this four piece set.\
 <a name="myfootnote2">2</a>: You will only need one clamp in this 4 piece set.\
-<a name="myfootnote3">3</a>: If you bought the 4 piece clamp set above, you will not need to buy it again here, as only one clamp is necessary of the follower arm, and one for the leader arm.\
-<a name="myfootnote4">4</a>: If you bought the screwdriver set for the follower arm, you will not need to buy it again here as the same screwdriver is used for the follower and leader arm.\
+<a name="myfootnote3">3</a>: If you bought the 4 piece clamp set for the leader arm, you will not need to buy it again here, as only one clamp is necessary of the follower arm, and one for the leader arm.\
+<a name="myfootnote4">4</a>: If you bought the screwdriver set for the leader arm, you will not need to buy it again here as the same screwdriver is used for the follower and leader arm.\
 <a name="myfootnote5">5</a>: This precision is based on the fact the through holes for M2 fasteners are 2.4mm in diameter while the nominal diameter of a M2 fastener is 2mm. In a worst case scenario, this allows +/- 0.2mm while still allowing for screw alignment. However, if you are only capable of printing with a larger layer height, you will likely be fine, just ensure the screw holes align as expected.\
-<a name="myfootnote6">6</a>: You should 
-<a name="myfootnote7">7</a>: This is not strictly necessary to print but does allow the follower arm to reach the ground which is is otherwise unable to do in the current setup.\
-<a name="myfootnote8">8</a>: You can either buy the Robotis [FPX330-S101](https://www.robotis.us/fpx330-s101-4pcs-set/), or 3D print it, but it is cheaper to print.
+<a name="myfootnote6">6</a>: It is quite possible a lower density infill could be used, however, erring on the side of caution, I used 37% to ensure strong parts.  \
+<a name="myfootnote7">7</a>: You do not need to buy these exact parts, but a glue stick and putty knife are almost always necessary for a good 3D print. The glue prevents parts from sticking to the print bed, and the putty knife helps scrape parts from the print bed. However, feel free to check with your specific printer instructions for if these parts are necessary. \
+<a name="myfootnote8">8</a>: This is not strictly necessary to print but does allow the follower arm to reach the ground which is is otherwise unable to do in the current setup.\
+<a name="myfootnote9">9</a>: You can either buy the Robotis [FPX330-S101](https://www.robotis.us/fpx330-s101-4pcs-set/), or 3D print it, but it is cheaper to print.

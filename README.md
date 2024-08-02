@@ -87,6 +87,8 @@ A variety of 3D printers are acceptable to print the parts necessary of the foll
       5. Follower_Gripper_Static_Part
       6. Follower_Shoulder_Rotation
       7. Follower_Shoulder_To_Elbow
+   3. Optional Parts:
+      1. 
 4. Take Down
    1. After the print is done, use the putty knife to scrape the the parts off the print bed.
    2. Remove any support material from parts.

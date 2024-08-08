@@ -96,7 +96,7 @@ A variety of 3D printers are acceptable to print the parts necessary of the foll
 
 ### Assembling the Parts
 Construct the leader and follower arms using the Assembly Video linked below.
-Video of the Assembly: [Youtube](https://youtu.be/LilDX6zS6OY?si=ZD-oKlPLFzF46wV9) #TODO: Update with the new Youtube Video later.
+Video of the Assembly: [Youtube](https://www.youtube.com/watch?v=5mdxvMlxoos)
 
 ### Configure
 While this robot can be programmed in a variety of manners, it is suggested to use with [LeRobot](https://github.com/huggingface/lerobot/blob/133d184a544443b44095c83156dbf8d212ccfaf6/examples/7_get_started_with_real_robot.md). #TODO: Add link to exact tutorial.

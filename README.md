@@ -87,8 +87,9 @@ A variety of 3D printers are acceptable to print the parts necessary of the foll
       5. Follower_Gripper_Static_Part
       6. Follower_Shoulder_Rotation
       7. Follower_Shoulder_To_Elbow
-   3. Optional Parts:
-      1. 
+   3. Optional Parts:<sup>[11](#myfootnote11)</sup>
+      1. HuggingFace_Block
+      2. LeRobot_Block
 4. Take Down
    1. After the print is done, use the putty knife to scrape the the parts off the print bed.
    2. Remove any support material from parts.
@@ -112,4 +113,5 @@ While this robot can be programmed in a variety of manners, it is suggested to u
 <a name="myfootnote7">7</a>: You do not need to buy these exact parts, but a glue stick and putty knife are almost always necessary for a good 3D print. The glue prevents parts from sticking to the print bed, and the putty knife helps scrape parts from the print bed. However, feel free to check with your specific printer instructions for if these parts are necessary. \
 <a name="myfootnote8">8</a>: All the printers suggested will print STL files. However, if your printer only prints a different format, ensure you convert the file to the correct extention before printing. \
 <a name="myfootnote9">9</a>: This is not strictly necessary to print but does allow the follower arm to reach the ground which is is otherwise unable to do in the current setup. \
-<a name="myfootnote10">10</a>: You can either buy the Robotis [FPX330-S101](https://www.robotis.us/fpx330-s101-4pcs-set/), or 3D print it, but it is cheaper to print.
+<a name="myfootnote10">10</a>: You can either buy the Robotis [FPX330-S101](https://www.robotis.us/fpx330-s101-4pcs-set/), or 3D print it, but it is cheaper to print. \
+<a name="myfootnote11">11</a>: Two blocks each the same size as a 2x4 Lego block, not necessary to print, but useful as a starting manipuland.

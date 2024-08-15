@@ -1,6 +1,6 @@
-# Alexander Koch Arm V1.1
+# Low-Cost Robot Arm: Koch v1.1
 
-This folder contains the instructions to assemble a slightly modified version of the [Alexander Koch Arms](https://github.com/AlexanderKoch-Koch/low_cost_robot). 
+This page contains the instructions to build a low-cost robot arm. It's an improved version of the original [Alexander Koch's robot](https://github.com/AlexanderKoch-Koch/low_cost_robot) to ease assembly. Thus, we call it Koch v1.1
 
 For the curious reader, here are the most significant changes made:
 1. Made small improvements to the hardware model including but not limited to: fixed screw interferences, cleaned up extraneous material, standardized hole sizes, removed screws fastening into plastic, added board platform to leader robot.
@@ -12,10 +12,14 @@ For the curious reader, here are the most significant changes made:
 
 ## Assembly Instructions
 
+![Leader And Follower Arm](./pictures/Follower_And_Leader_Arm.jpg)
+
 ### Sourcing Parts
 Order the off the shelf parts for the leader and follower arm using the links below. Note prices and items may vary slightly depending on geographic location.
 
 #### Leader Arm
+
+![Leader Arm](./pictures/SW_Leader_Render.png)
 
 | Part | Amount | Unit Cost (US) | Buy US | Unit Cost (EU) | Buy EU | Unit Cost (UK) | Buy UK |
 |---|---|---|---|---|---|---|---|
@@ -31,6 +35,8 @@ Order the off the shelf parts for the leader and follower arm using the links be
 | Total | | $199 | | 304€ | | £227 | |
 
 #### Follower Arm
+
+![Follower Arm](./pictures/Follower_SW_Render.png)
 
 | Part | Amount | Unit Cost (US) | Buy US | Unit Cost (EU) | Buy EU | Unit Cost (UK) | Buy UK |
 |---|---|---|---|---|---|---|---|

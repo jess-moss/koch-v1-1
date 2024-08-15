@@ -12,7 +12,7 @@ For the curious reader, here are the most significant changes made:
 
 ## Assembly Instructions
 
-<img src="./pictures/Follower_And_Leader_Arm.jpg" alt="Leader And Follower Arm" style="width:80%;">
+![Leader And Follower Arm](./pictures/Follower_And_Leader_Arm.jpg)
 
 ### Sourcing Parts
 Order the off the shelf parts for the leader and follower arm using the links below. Note prices and items may vary slightly depending on geographic location.

@@ -106,7 +106,7 @@ Construct the leader and follower arms using the Assembly Video linked below. Af
 Video of the Assembly: [Youtube](https://www.youtube.com/watch?v=5mdxvMlxoos)
 
 ### Configure
-While this robot can be programmed in a variety of manners, it is suggested to use with [LeRobot](https://github.com/huggingface/lerobot/blob/133d184a544443b44095c83156dbf8d212ccfaf6/examples/7_get_started_with_real_robot.md). #TODO: Add link to exact tutorial.
+While this robot can be programmed in a variety of manners, it is suggested to use with [LeRobot](https://github.com/huggingface/lerobot/blob/main/examples/7_get_started_with_real_robot.md).
 
 
 ### Footnotes

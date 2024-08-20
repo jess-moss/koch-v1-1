@@ -21,6 +21,8 @@ Order the off the shelf parts for the leader and follower arm using the links be
 
 ![Leader Arm](./pictures/SW_Leader_Render.png)
 
+/!\ Warning: We only have links for US, EU, UK for now. If you find links for other countries like China or India, please create an issue or PR so that we add them to the list.
+
 | Part | Amount | Unit Cost (US) | Buy US | Unit Cost (EU) | Buy EU | Unit Cost (UK) | Buy UK |
 |---|---|---|---|---|---|---|---|
 | Dynamixel XL330-M077-T | 6 | $24 | [Robotis](https://www.robotis.us/dynamixel-xl330-m077-t) | 40€ | [MyBotShop](https://www.mybotshop.de/DYNAMIXEL-XL330-M077-T)-[GenRobots](https://www.generationrobots.com/en/403818-dynamixel-xl330-m077-t-servo-motor.html) | £27 | [RoboSavvy](https://robosavvy.co.uk/robotis-dynamixel-xl330-m077-t.html) |
@@ -37,6 +39,8 @@ Order the off the shelf parts for the leader and follower arm using the links be
 #### Follower Arm
 
 ![Follower Arm](./pictures/Follower_SW_Render.png)
+
+/!\ Warning: We only have links for US, EU, UK for now. If you find links for other countries like China or India, please create an issue or PR so that we add them to the list.
 
 | Part | Amount | Unit Cost (US) | Buy US | Unit Cost (EU) | Buy EU | Unit Cost (UK) | Buy UK |
 |---|---|---|---|---|---|---|---|

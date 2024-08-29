@@ -21,6 +21,8 @@ Order the off the shelf parts for the leader and follower arm using the links be
 
 ![Leader Arm](./pictures/SW_Leader_Render.png)
 
+/!\ Warning: We only have links for US, EU, UK for now. If you find links for other countries like China or India, please create an issue or PR so that we add them to the list.
+
 | Part | Amount | Unit Cost (US) | Buy US | Unit Cost (EU) | Buy EU | Unit Cost (UK) | Buy UK |
 |---|---|---|---|---|---|---|---|
 | Dynamixel XL330-M077-T | 6 | $24 | [Robotis](https://www.robotis.us/dynamixel-xl330-m077-t) | 40€ | [MyBotShop](https://www.mybotshop.de/DYNAMIXEL-XL330-M077-T)-[GenRobots](https://www.generationrobots.com/en/403818-dynamixel-xl330-m077-t-servo-motor.html) | £27 | [RoboSavvy](https://robosavvy.co.uk/robotis-dynamixel-xl330-m077-t.html) |
@@ -37,6 +39,8 @@ Order the off the shelf parts for the leader and follower arm using the links be
 #### Follower Arm
 
 ![Follower Arm](./pictures/Follower_SW_Render.png)
+
+/!\ Warning: We only have links for US, EU, UK for now. If you find links for other countries like China or India, please create an issue or PR so that we add them to the list.
 
 | Part | Amount | Unit Cost (US) | Buy US | Unit Cost (EU) | Buy EU | Unit Cost (UK) | Buy UK |
 |---|---|---|---|---|---|---|---|
@@ -119,7 +123,7 @@ While this robot can be programmed in a variety of manners, it is suggested to u
 <a name="myfootnote7">7</a>: This precision is based on the fact the through holes for M2 fasteners are 2.4mm in diameter while the nominal diameter of a M2 fastener is 2mm. In a worst case scenario, this allows +/- 0.2mm while still allowing for screw alignment. However, if you are only capable of printing with a larger layer height, you will likely be fine, just ensure the screw holes align as expected.\
 <a name="myfootnote8">8</a>: It is quite possible a lower density infill could be used, however, erring on the side of caution, I used 37% to ensure strong parts.  \
 <a name="myfootnote9">9</a>: You do not need to buy these exact parts, but a glue stick and putty knife are almost always necessary for a good 3D print. The glue prevents parts from sticking to the print bed, and the putty knife helps scrape parts from the print bed. However, feel free to check with your specific printer instructions for if these parts are necessary. \
-<a name="myfootnote10">10</a>: All the printers suggested will print STL files. However, if your printer only prints a different format, ensure you convert the file to the correct extention before printing. \
+<a name="myfootnote10">10</a>: All the printers suggested will print STL files. However, if your printer only prints a different format, ensure you convert the file to the correct extension before printing. \
 <a name="myfootnote11">11</a>: This is not strictly necessary to print but does allow the follower arm to reach the ground which is is otherwise unable to do in the current setup. \
 <a name="myfootnote12">12</a>: You can either buy the Robotis [FPX330-S101](https://www.robotis.us/fpx330-s101-4pcs-set/), or 3D print it, but it is cheaper to print. \
 <a name="myfootnote13">13</a>: Two blocks each the same size as a 2x4 Lego block, not necessary to print, but useful as a starting manipuland. \

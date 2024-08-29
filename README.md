@@ -19,7 +19,7 @@ Order the off the shelf parts for the leader and follower arm using the links be
 
 #### Leader Arm
 
-![Leader Arm](./pictures/SW_Leader_Render.png)
+![Leader Arm](./pictures/Leader_SW_Render.png)
 
 /!\ Warning: We only have links for US, EU, UK for now. If you find links for other countries like China or India, please create an issue or PR so that we add them to the list.
 
@@ -63,7 +63,7 @@ A variety of 3D printers are acceptable to print the parts necessary of the foll
 
 1. Choose a printer: When choosing a printer there are a variety of factors to consider. Below are the suggested printed settings, although using a printer outside these parameters may likely work as well.
    1. Precision: 0.2mm minimum height layer<sup>[7](#myfootnote7)</sup>
-   2. Material: PLA, ABS, PETG or other reasonably strong plastics.
+   2. Material: PLA+, ABS, PETG or other reasonably strong plastics.
    3. Nozzle Diameter: 0.4mm maximum nozzle diameter
    4. Infill Density: ~30% <sup>[8](#myfootnote8)</sup>
    5. Sample Printers: [Prusa Mini+](https://www.prusa3d.com/product/original-prusa-mini-semi-assembled-3d-printer-4/), [Bambu P1](https://us.store.bambulab.com/collections/p1-series/products/p1p), [Ender3](https://www.amazon.com/Comgrow-Creality-Ender-Aluminum-220x220x250mm/dp/B07BR3F9N6/), etc.  
@@ -108,6 +108,18 @@ A variety of 3D printers are acceptable to print the parts necessary of the foll
 Construct the leader and follower arms using the Assembly Video linked below. After you assemble the two arms from the video, power the leader arm using the 5V power supply<sup>[14](#myfootnote14)</sup>, and the follower arm using the 12V power supply. In addition, plug each arm into your computer using a USB-C cable.
 
 Video of the Assembly: [Youtube](https://www.youtube.com/watch?v=8nQIg9BwwTk)
+
+Note: The Leader Platform has been altered to be fastened instead of snapping into place, as the latter design was not creating a tight fit for certain printers. In time, this will be fixed in the video link above, but for now follow the below directions. 
+
+Insert the nuts into the pockets on the underside of the Leader Platform. Then, use the M2x5 machine screws to fasten the Leader_Platform to the Leader_Base. You will need to temporarily remove the Waveshare Serial Bus Servo Driver Board to access the two fasteners beneath it.
+
+Parts:
+1. Leader_Platform
+2. Four M2x5 Machine Screws
+3. Four M2 Nuts
+
+![Platform Video](./pictures/Platform_Assembly_Video.gif)
+
 
 ### Configure
 While this robot can be programmed in a variety of manners, it is suggested to use with [LeRobot](https://github.com/huggingface/lerobot/blob/main/examples/7_get_started_with_real_robot.md).

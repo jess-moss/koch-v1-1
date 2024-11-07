@@ -140,3 +140,22 @@ While this robot can be programmed in a variety of manners, it is suggested to u
 <a name="myfootnote12">12</a>: You can either buy the Robotis [FPX330-S101](https://www.robotis.us/fpx330-s101-4pcs-set/), or 3D print it, but it is cheaper to print. \
 <a name="myfootnote13">13</a>: Two blocks each the same size as a 2x4 Lego block, not necessary to print, but useful as a starting manipuland. \
 <a name="myfootnote14">14</a>: The observant technician may realize the Serial Bus Servo Driver Board suggests an input DC voltage between 9 to 12.6V, where for the leader arm we are only applying 5V. This lower voltage will not hurt the board, and must be done to correctly power the servos on the leader arm.
+
+
+### Additional Sales Channel
+
+#### WowRobo’s Mass-Produced Version of the Open-Source Koch v1.1
+
+![WowRobo Mass-Produced Version](./pictures/wowrobo.png)
+
+WowRobo-Robotics now offers a mass-produced version of the Koch v1.1 robot arm, optimized for researchers and educators who want a ready-to-use learning tool. This version of the Koch robot arm includes several key improvements:
+
+1. **Enhanced Gripper Design**: Soft and hardware-integrated gripper with improved gripping power, making it more versatile for various tasks.
+
+2. **Durable Structure and Aesthetic Finish**: Our mass-produced design uses materials with a heat deflection temperature of up to 90°C, offering greater durability and a more professional appearance compared to typical 3D-printed parts.
+
+3. **Optimized Wiring and Setup**: Improved wiring layout for easier use and maintenance, minimizing clutter and enhancing performance.
+
+4. **Pre-configured for Immediate Use**: Each unit is fully assembled and pre-tested, with hardware and software settings (such as ID configuration) initialized, saving users significant setup time and allowing them to focus on research and learning.
+
+For more information on purchasing the Koch v1.1 through WowRobo-Robotics, please visit [WowRobo-Robotics' website](https://shop.wowrobo.com/products/wowrobo-twinarm-robotic-arm-set-inspired-by-koch-v1-1) .

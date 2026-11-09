@@ -1,0 +1,37 @@
+# Proposed by Robotheca for this repository. Every line is yours to
+# change: check it before merging.
+
+format_version: "1.0"
+name: Koch v1.1
+summary: An improved version of Alexander Koch's low-cost robot arm, a leader and follower pair with Dynamixel servos for LeRobot. The price includes both arms.
+category: arm
+difficulty: beginner
+license:
+  hardware: Apache-2.0
+  software: Apache-2.0
+source:
+  repository: https://github.com/jess-moss/koch-v1-1
+estimated_cost:
+  amount: 673
+  currency: EUR
+  note: Leader arm and follower arm together.
+tools:
+  - 3D printer
+files:
+  parts_3d: hardware/
+  cad: hardware/
+  electronics: electrical/
+  bom: README.md
+  images:
+    - pictures/Follower_And_Leader_Arm.jpg
+software:
+  framework: lerobot
+build_steps:
+  - title: Get the parts for both arms
+    doc: README.md
+  - title: Print the parts
+    doc: README.md
+  - title: Assemble the two arms (video)
+    url: https://www.youtube.com/watch?v=8nQIg9BwwTk
+  - title: Set up the motors and calibrate with LeRobot
+    url: https://huggingface.co/docs/lerobot/koch
